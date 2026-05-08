@@ -1,40 +1,25 @@
-# 💧 Project Hydrogen
+# Project Aqua: Lite Edition
 
-A ultra-lightweight, high-performance web browser designed for legacy Android devices and hardware with limited RAM. Built to be fast, simple, and theme-adaptive.
+> **WARNING: The Lite version of Project Aqua is only for devices with RAM in MEGABYTES! We recommend using Standard Project Aqua for functionality and more features.**
 
-## 🚀 Features
+Project Aqua Lite is a high-performance web shell designed for devices with extreme resource constraints. It is optimized for the **Samsung Galaxy On8 (2016)** and similar legacy hardware.
 
-* **Low RAM Footprint:** Optimized to run smoothly on devices like the Samsung Galaxy On8 and other legacy hardware.
-* **Adaptive Theming:** UI colors that adapt to your preference (Light, Dark, and Custom Palettes) with high-visibility search input.
-* **Legacy Compatibility:** Supports Android SDK 19 (KitKat 4.4) and up.
-* **Clean UI:** A minimalist "Aero" inspired design that stays out of your way.
-* **Search Engine Flexibility:** Quickly switch between your favorite search engines.
+## ✨ Features
+- **Ultra-Low Memory Footprint:** Tuned for 10MB - 15MB RAM usage.
+- **Zero-Cache Mode:** Keeps your legacy SSD/eMMC healthy and fast.
+- **Minimalist UI:** Full-screen webview without the distraction (or RAM cost) of a browser UI.
+- **Privacy First:** Boots directly into DuckDuckGo Lite.
 
-## 📱 Compatibility
+## 🕹 Instructions
+- **Search/Browse:** Use the search bar on the DuckDuckGo page.
+- **Incognito Mode:** **Long-press** the search bar/main input area to toggle private browsing.
+- **Navigation:** Use your phone's physical or software **Back Button** to go back through pages.
+- **Exiting:** Press 'Back' on the homepage to close the app.
 
-* **Minimum Version:** Android 4.4 (KitKat / API 19)
-* **Tested On:** Samsung Galaxy On8 (J710FN), Windows Thin PC (Legacy Laptop)
-* **Architecture:** Optimized for ARM and ARM64
-
-## 📦 Installation
-
-1.  Download the latest `Project-Hydrogen-1.0.apk` from this repository.
-2.  On your Android device, go to **Settings > Security** and enable **Unknown Sources**.
-3.  Locate the downloaded APK in your file manager and tap to install.
-4.  Launch Hydrogen and start browsing!
-
-## 🛠️ Development
-
-Project Hydrogen is built using **Kotlin** and **Android Studio**. It leverages the system WebView engine to provide a modern browsing experience on older system architectures.
-
-### To build from source:
-1.  Clone the repository.
-2.  Open in Android Studio.
-3.  Clean and Rebuild the project (to generate the R file).
-4.  Run on your preferred emulator or physical device.
-
-## 🎨 PaletteOS Integration
-Hydrogen is the flagship browser for the upcoming **PaletteOS** project—a refined, debloated Android distribution focused on speed and aesthetics.
+## 🛠 Technical Configuration
+- **Package:** `com.project.aqualite`
+- **Engine:** Android WebView (Nougat Optimized)
+- **Min RAM Required:** ~64MB System Free
 
 ---
-*Created by [prismnotfound5-hash](https://github.com/prismnotfound5-hash)*
+*Built on the Dell Vostro for Project Aqua.*
