@@ -1,4 +1,6 @@
+<img width="250" height="248" alt="Screenshot 2026-05-08 222250" src="https://github.com/user-attachments/assets/7b988085-0afb-49b6-a0b0-fe0c47a5c7a2" />
 # Project Aqua: Lite Edition
+
 
 > **WARNING: The Lite version of Project Aqua is only for devices with RAM in MEGABYTES! We recommend using Standard Project Aqua for functionality and more features.**
 
